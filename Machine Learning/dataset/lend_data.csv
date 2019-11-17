@@ -1,0 +1,16 @@
+﻿age,work,hourse,loan,class
+young,no,no,average,no
+young,no,no,good,no
+young,yes,no,good,yes
+young,yes,yes,average,yes
+young,no,no,average,no
+Middle,no,no,average,no
+Middle,no,no,good,no
+Middle,yes,yes,good,yes
+Middle,no,yes,very good,yes
+Middle,no,yes,very good,yes
+Senior,no,yes,very good,yes
+Senior,no,yes,good,yes
+Senior,yes,no,good,yes
+Senior,yes,no,very good,yes
+Senior,no,no,average,no
